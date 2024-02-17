@@ -37,6 +37,7 @@ please open an [issue](https://github.com/Shahzad-Minhaj/LudoGame/issues).
 1. Open the `index.html` file in a web browser.
 2. The analog clock should appear on the screen, displaying the current time.
 3. The hour hand is represented in black, the minute hand in black, and the second hand in red.
+4. For preview the output, visit [Analog Clock](https://shahzad-minhaj.github.io/Analogclock/)
 
 ## Credits
 
